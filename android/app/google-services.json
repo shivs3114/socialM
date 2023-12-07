@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185138983559",
+    "project_id": "twclone-12ce6",
+    "storage_bucket": "twclone-12ce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185138983559:android:c8cee44547a43d6e7c3e22",
+        "android_client_info": {
+          "package_name": "com.example.social2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiwvKlPyLsnFFEfvySeu1Tk1OJNIJolIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
